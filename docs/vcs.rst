@@ -3,9 +3,7 @@
 Version control integration
 ===========================
 
-Weblate currently supports :ref:`vcs-git` (with extended support for
-:ref:`vcs-github`, :ref:`vcs-gerrit` and :ref:`vcs-git-svn`) and
-:ref:`vcs-mercurial` as version control backends.
+Weblate は現在、バージョン管理のバックエンドとして :ref:`vcs-git` （:ref:`vcs-github` 、:ref:`vcs-gerrit` および :ref:`vcs-git-svn` の拡張サポート付き）および :ref:`vcs-mercurial` に対応しています。
 
 .. _vcs-repos:
 
